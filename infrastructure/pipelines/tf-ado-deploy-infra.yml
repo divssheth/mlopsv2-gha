@@ -27,7 +27,7 @@ resources:
   repositories:
     - repository: mlops-templates
       name: divssheth/mlops-templates
-      endpoint: azure-gha-sub
+      endpoint: divssheth-github
       type: github
       ref: main #branch name
 
