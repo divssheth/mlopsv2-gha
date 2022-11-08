@@ -17,8 +17,8 @@ variables:
 
 
   # Azure DevOps
-  ado_service_connection_rg: Azure-ARM-Dev-AMLV2POC
-  ado_service_connection_aml_ws: Azure-ARM-Dev-AMLV2POC
+  ado_service_connection_rg: azure-gha-sub
+  ado_service_connection_aml_ws: azure-gha-sub
 
   # DO NOT TOUCH
 
